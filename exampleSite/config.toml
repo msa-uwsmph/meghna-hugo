@@ -20,7 +20,7 @@ weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = "7"
 [[menu.main]]
 URL = "about"
 name = "About Us"
