@@ -1,4 +1,4 @@
-baseURL = "uwsmphmedstudents.netlify.com"
+baseURL = "https://uwsmphmedstudents.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
