@@ -1,6 +1,6 @@
 ---
 contact:
-  enable: false
+  enable: true
   title: Contact Us
   subtitle: Contact Details
   content: Please let us know if there's anything you'd like to address with our medical
