@@ -6,9 +6,9 @@ contact:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-  form_action: "#"
+  form_action: mailto:msa.uwsmph@gmail.com
   contact_details:
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+    info: 750 Highland Ave, Madison, WI 53705
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: msa.uwsmph@gmail.com'
