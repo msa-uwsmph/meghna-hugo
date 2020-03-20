@@ -1,6 +1,6 @@
 ---
 contact:
-  enable: true
+  enable: false
   title: Contact Us
   subtitle: Contact Details
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
