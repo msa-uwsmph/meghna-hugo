@@ -32,7 +32,7 @@ weight = 5
 [[menu.main]]
 URL = "team"
 name = "Team"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
@@ -44,7 +44,7 @@ weight = 3
 [[menu.main]]
 URL = "about"
 name = "About Us"
-weight = 2
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
