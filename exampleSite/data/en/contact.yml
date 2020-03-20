@@ -3,9 +3,8 @@ contact:
   enable: false
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: Please let us know if there's anything you'd like to address with our medical
+    school student government!
   form_action: mailto:msa.uwsmph@gmail.com
   contact_details:
   - icon: ti-location-pin
