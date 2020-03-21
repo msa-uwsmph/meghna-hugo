@@ -3,6 +3,13 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Cassie Crifase
+    image_webp: ''
+    image: ''
+    designation: Health Equity Activation Team (HEAT) Representative
+    content: 'Here to help with any & all concerns related to Diversity, Equity, and
+      Inclusion (DEI) in the curriculum! '
+    social: ''
   - name: Jason Kim
     image_webp: ''
     image: ''
