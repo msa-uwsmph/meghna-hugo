@@ -3,11 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Test
+  - name: Jason Kim
     image_webp: ''
     image: ''
-    designation: ''
-    content: dlksjflkdsfjkldjf'dsfjlkdfjlkdfjlkdfjkldfjkl
+    designation: Health Equity Activation Team (HEAT) Representative
+    content: Here to help with any & all concerns related to Diversity, Equity, and
+      Inclusion (DEI) in the curriculum!
     social: []
   - name: Jonathan Le
     image_webp: images/team/team-1.webp
