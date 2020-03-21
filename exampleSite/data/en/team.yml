@@ -56,12 +56,14 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: Andrea Niño De Guzman Ramirez
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Class of 2023 Co-President
+    content: 'Serves with the M2 Phase 1 representatives as the voice of the Phase
+      1 class to MSA, UWSMPH administration and faculty, and the WMAA.
+
+'
     social:
     - icon: ti-facebook
       link: "#"
