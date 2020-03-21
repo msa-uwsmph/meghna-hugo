@@ -3,6 +3,13 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Megan Murphy-Belcaster
+    image_webp: ''
+    image: ''
+    designation: Equity & Diversity Representative
+    content: I serve to unify the cultural concerns of the student body and align
+      the interests of MSMC, HEAT, MSA.
+    social: ''
   - name: Cassie Crifase
     image_webp: ''
     image: ''
