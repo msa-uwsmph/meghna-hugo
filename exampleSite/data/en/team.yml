@@ -9,12 +9,12 @@ team:
     designation: ''
     content: dlksjflkdsfjkldjf'dsfjlkdfjlkdfjlkdfjkldfjkl
     social: []
-  - name: Abul Mal Muhit
+  - name: Jonathan Le
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: MSA President
+    content: Oversees MSA and acts as the official representative and spokesperson
+      for MSA to the administration and faculty
     social:
     - icon: ti-facebook
       link: "#"
